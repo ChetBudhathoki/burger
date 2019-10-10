@@ -1,0 +1,22 @@
+body {
+    background-color: #1a6477;
+  }
+  
+  .jumbotron h1{
+      color: #a8dafc;
+  
+  }
+  
+  .jumbotron{
+      padding-top: 2%;
+      background-color:transparent !important;
+  }
+  
+  img {
+  margin-top: 5%;
+    width: 15%;
+  }
+  
+  .submitFont{
+      color: rgb(15, 49, 15);
+  }
